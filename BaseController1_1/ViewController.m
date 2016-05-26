@@ -45,8 +45,7 @@
    self.myView.transform = CGAffineTransformMakeRotation(0.2);
     self.myView.tintColor = [UIColor redColor];
     NSLog(@"myview.bounds:%@",NSStringFromCGRect(self.myView.frame));
-   
-    
+    NSLog(@"Hello world");
     
 }
 
